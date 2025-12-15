@@ -1,0 +1,7 @@
+{
+    "createFolderButton": "#menu_item_documents_create_folder",
+    "folderName":"#new_folder",
+    "createFolderB":"#btn_create",
+    "createdFolder":"//a[normalize-space()='new folder']"
+
+}
